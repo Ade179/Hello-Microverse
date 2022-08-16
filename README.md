@@ -1,31 +1,36 @@
-# Hello-Microverse
-Linters test for HTML and CSS
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Project Name
-Linters Test
+# Hello Microvere
 
-Built With
-HTML and CSS
-Technologies used
+> This project helps the mastery of Linters and professionalism in writing Readme
 
 
-To get a local copy up and running follow these simple example step.
-1) Clone into your local machine
+## Built With
 
-Prerequisites
-Setup Git
-Install code editor(Vs code; highly recommended)
+- HTML and CSS
+- Linters
 
-👤 Author1
+## Authors
 
-GitHub: Ade179
-Twitter: @Juwon_Adesanya
-LinkedIn: Juwon Adesanya
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Ade179)
+- Twitter: [@twitterhandle](https://twitter.com/@juwon_adesanya)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/adejuwon-adesanya-237b54239)
 
 
+## Show your support
 
-Show your support
 Give a ⭐️ if you like this project!
 
-📝 License
-This was issued by microverse
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
